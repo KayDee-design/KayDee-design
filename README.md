@@ -6,7 +6,7 @@
 
 💻 During my college days, I developed projects like:
 - **DrukDrive**: A mobile app for real-time traffic sign detection.  
-- **Spark**: A chatbot designed to help students access information effortlessly.  
+- **GCIT Spark Chatbot**: A chatbot designed to help students access information effortlessly.  
 - **Psycheck**: A web-based platform that analyzes personality traits using AI.  
 
 💞️ I’m looking to collaborate on freelance projects, particularly in **AI development**, **UI/UX design**, and **front-end development**.  

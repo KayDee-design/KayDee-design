@@ -11,6 +11,6 @@
 
 💞️ I’m looking to collaborate on freelance projects, particularly in **AI development**, **UI/UX design**, and **front-end development**.  
 
-📫 You can reach me at **karmadeki@gmail.com** for collaboration or inquiries.  
+📫 You can reach me at **karmadeekey406@gmail.com** for collaboration or inquiries.  
 
 🚀 Let’s build something amazing together!
